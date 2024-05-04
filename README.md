@@ -32,16 +32,15 @@ The analysis is based on a sample dataset provided by Mitron Bank, consisting of
 
 ## Notable Discoveries:
 
-1.Tailored Promotions: Tailor-made promotional campaigns designed to resonate with specific demographic segments.
+1.Customized Offers: Special promotions created to appeal to certain groups of people.
 
-2.Category-centric Features: Introduction of specialized features catering to distinct spending categories.
+2.Feature-Focused Options: Adding special features to the credit card that match different kinds of spending.
 
-3.Emphasis on Customer Engagement: Prioritization of interactive strategies to enhance customer involvement.
+3.Focus on Engaging Customers: Putting extra effort into making sure customers are involved and interested.
 
-4.Comprehensive Approach: Holistic consideration of age, geographical location, and professional backgrounds in strategy formulation.
+4.Taking Everything Into Account: Thinking about a person's age, where they live, and what job they have when making plans.
 
-5.Anticipated Business Uplift: Expected positive outcomes include increased card usage, augmented expenditure, and bolstered brand reputation for Mitron Bank. 
-  This collaborative effort between data analytics and strategic planning embodies Mitron Bank's commitment to industry advancement.
+5.Expected Business Growth: Predicted good results, like more people using the credit card, spending more money, and Mitron Bank becoming even more well-known. This teamwork between using data and planning carefully shows how much Mitron Bank wants to move forward in the industry.
 
 ## Live Dashboard
 
