@@ -49,3 +49,12 @@ You can access the live Power BI dashboard [here](https://app.powerbi.com/report
 
 Feel free to explore the repository and dive into the analysis to gain insights into customer demographics, spending behavior, and income utilization for the Mitron Bank Credit Card Project.
 
+## Dashboard Glimpse
+
+![sc](https://github.com/ramyakrj5/Banking-Domain-Credit-Line-Analysis/blob/main/Resume%208%20Portfolio%20Challenge-images-0.jpg)
+
+![sc](https://github.com/ramyakrj5/Banking-Domain-Credit-Line-Analysis/blob/main/Resume%208%20Portfolio%20Challenge-images-1.jpg)
+
+![sc](https://github.com/ramyakrj5/Banking-Domain-Credit-Line-Analysis/blob/main/Resume%208%20Portfolio%20Challenge-images-2.jpg)
+
+![sc](https://github.com/ramyakrj5/Banking-Domain-Credit-Line-Analysis/blob/main/Resume%208%20Portfolio%20Challenge-images-3.jpg)
